@@ -6,3 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2021-10-5
+-Initialized repo to be a gradle Java application
+-Confirmed that gradle build and gradle run commands work with code
+
